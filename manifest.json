@@ -3,7 +3,7 @@
   "short_name": "HelloPWA",
   "description": "HelloPWA",
   "lang": "en-US",
-  "start_url": "/",
+  "start_url": "/pwa/index.html",
   "display": "standalone",
   "background_color": "#EE350F",
   "theme_color": "#EE350F",
